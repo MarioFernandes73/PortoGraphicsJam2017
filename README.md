@@ -14,6 +14,17 @@ Idea: A spiritual trip done by the protagonist in which he was faced with choice
 Missing components of the presented version (due to time shortage): another way to solve each stage rather than killing the monsters, story depth and polish, stages polish such as preventing the protagonist to advance without killing every monster or solving the (unimplemented) puzzles, some small fixes such as protagonist texture appearing under the car from time to time.
 
 
+![alt text](ReadmeImages/Menu.png)
+Fig1 - Main Menu
+
+![alt text](ReadmeImages/Start.png)
+Fig2 - Start
+
+![alt text](ReadmeImages/Finish.png)
+Fig3 - End
+
+
+
 Credits:
 * [Mário Fernandes](https://github.com/MarioFernandes73)
 * [Catarina Ramos](https://github.com/catramos96)
