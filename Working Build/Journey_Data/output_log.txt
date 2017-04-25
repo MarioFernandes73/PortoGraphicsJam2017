@@ -1,0 +1,53 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   10.18.13.6881
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mario\Documents\GitKraken\PortoGraphicsJam2017\Working Build\Journey_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.527709 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.998018 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.336332 ms (FindLiveObjects: 0.025264 ms CreateObjectMapping: 0.019343 ms MarkObjects: 0.198168 ms  DeleteObjects: 0.092373 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.524551 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.245933 ms (FindLiveObjects: 0.020132 ms CreateObjectMapping: 0.024869 ms MarkObjects: 0.183562 ms  DeleteObjects: 0.017369 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.476866 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1108.
+Total: 0.447654 ms (FindLiveObjects: 0.052502 ms CreateObjectMapping: 0.036317 ms MarkObjects: 0.269224 ms  DeleteObjects: 0.089215 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3a88 -> priority: 1 
+  Thread -> id: 3a84 -> priority: 1 
+  Thread -> id: 3a90 -> priority: 1 
+  Thread -> id: 3a8c -> priority: 1 
