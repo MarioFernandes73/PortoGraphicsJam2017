@@ -15,9 +15,9 @@ Missing components of the presented version (due to time shortage): another way 
 
 
 Credits:
-[Mário Fernandes](https://github.com/MarioFernandes73)
-[Catarina Ramos](https://github.com/catramos96)
-[Eduardo Leite](https://github.com/xJupiter931)
-[Ines Gomes](https://github.com/inesgomes)
-[Miguel Freitas](https://github.com/miguelagfreitas)
+* [Mário Fernandes](https://github.com/MarioFernandes73)
+* [Catarina Ramos](https://github.com/catramos96)
+* [Eduardo Leite](https://github.com/xJupiter931)
+* [Ines Gomes](https://github.com/inesgomes)
+* [Miguel Freitas](https://github.com/miguelagfreitas)
 
